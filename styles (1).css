@@ -76,7 +76,8 @@ li{
 }
 .tb div{
   margin:0.5%;
- display: inline-block;  
+ display: flex;
+    justify-content: space-evenly;
 
 }
 .tb1{
